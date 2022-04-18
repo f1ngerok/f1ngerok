@@ -6,5 +6,7 @@ I'm from Russia but now i living and studying in Prague. I love to learn some ne
 * Python
 * C++
 * JavaScript
+* React
+* TypeScript
 * PHP
 * HTML/CSS
