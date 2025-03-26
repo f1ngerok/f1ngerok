@@ -6,5 +6,5 @@
 * React
 * TypeScript
 * PHP
-* * Python
+* Python
 * C++
